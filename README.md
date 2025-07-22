@@ -1,0 +1,2 @@
+# kaztrade-demo
+Agrarhandelsplattform
